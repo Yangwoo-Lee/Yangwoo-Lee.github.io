@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Topics in Structural Reliability" 
-category: Blog
+category: Study
 tage: [Coding,Study]
 toc: true
 toc_sticky: true
@@ -14,7 +14,7 @@ The subject of structural reliability offers a rational framework to quantify un
 
 ### Goals
 
-This course offers a comprehensive review of structural reliability assessment methods and their applications to engineering problems in general. Topics include formulation of structural reliability, first-order and second-order reliability methods (FORM and SORM), system reliability analysis, structural reliability analysis under model or statistical uncertainties, simulation methods and uncertainty quantification methods. Students will apply the methods to example problems using available computer codes. As a final term project, each student will apply or develop reliability methods for an engineering/science application he/she chooses.
+This course offers a comprehensive review of structural reliability assessment methods and their applications to engineering problems in general. Topics include formulation of structural reliability, first-order and second-order reliability methods(FORM and SORM), system reliability analysis, structural reliability analysis under model or statistical uncertainties, simulation methods and uncertainty quantification methods. Students will apply the methods to example problems using available computer codes. As a final term project, each student will review, apply or develop reliability methods for an engineering/science application he/she chooses.
 
 ### Syllabus
 

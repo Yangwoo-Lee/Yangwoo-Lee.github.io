@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Pattern Recognition" 
-category: Blog
+category: Study
 tage: [Coding,Study]
 toc: true
 toc_sticky: true
