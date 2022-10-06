@@ -32,3 +32,9 @@ tag: [Book, Coding]
 ![http://image.yes24.com/momo/TopCate306/MidCate008/30575810.jpg](http://image.yes24.com/momo/TopCate306/MidCate008/30575810.jpg)
 
 * 문제 해결 접근 방법
+
+### 장하석, ["물은 H2O인가? 증거, 실재론, 다원주의"](http://www.yes24.com/Product/Goods/102226591)
+
+![http://image.yes24.com/goods/102226591/XL](http://image.yes24.com/goods/102226591/XL)
+
+* ‘상보적 과학’
