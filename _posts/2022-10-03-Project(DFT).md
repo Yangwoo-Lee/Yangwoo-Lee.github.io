@@ -17,6 +17,6 @@ Tricalcium oxy silicate (C3S) and dicalcium silicate (C2S) are the major constit
 
 **Keywords:** Cement; Alite; Belite; Reactivity; Density functional theory
 
-![**Figure 1**. High temperature phase transition among (a) belite and (b) alite polymorphs.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f8318dc-652b-4dee-87e4-809e356388ce/Untitled.png)
+![**Figure 1**. High temperature phase transition among (a) belite and (b) alite polymorphs.]()
 
 **Figure 1**. High temperature phase transition among (a) belite and (b) alite polymorphs.
