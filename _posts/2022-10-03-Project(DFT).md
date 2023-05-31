@@ -5,6 +5,13 @@ category: Project
 tag: [Project, Coding, MATLAB, DFT]
 toc: true
 toc_sticky: true
+
+excerpt: "The reactivity of polymorphs of calcium silicates is quantitatively investigated using Density Functional Theory."
+
+header:
+  overlay_image: assets/images/Image4post/partialcharge.jpg
+  overlay_filter: 0.5 
+  teaser: assets/images/Image4post/partialcharge.jpg
 ---
 
 ## Reactivity Difference of Alite and Belite through DFT
