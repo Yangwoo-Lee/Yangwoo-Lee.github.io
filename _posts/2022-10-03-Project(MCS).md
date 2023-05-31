@@ -5,6 +5,12 @@ category: Project
 tag: [Project, Coding, MATLAB, DFT]
 toc: true
 toc_sticky: true
+excerpt: "Evaluation of Service Life of Reinforced Concrete Structure with MCS"
+category: Blog
+header:
+  overlay_image: assets/images/Image4post/RC_degradation.jpg
+  overlay_filter: 0.5 
+  teaser: assets/images/Image4post/RC_degradation.jpg
 ---
 
 ## Reactivity Difference of Alite and Belite through DFT

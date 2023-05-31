@@ -1,4 +1,25 @@
 ---
-layout: home
+layout: archive
+sidebar_main: ture
 author_profile: true
+entries_layout: list
+
+header:
+    overlay_image: assets/images/cherry_blossom_in_korea.jpg
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+    caption: "Photo credit: [**Me:)**](https://unsplash.com)"
 ---
+<!-- 여기에 홈페이지 소개글 작성 -->
+<div class="test">
+    <h1>소개글</h1>
+    <p>방문해주셔서 감사합니다.<br>
+    일부 글들이 미완성일 수 있습니다.<br>
+    좋은 하루 되시길 바랍니다.</p>
+</div>
+
+<div class="grid__wrapper">
+    {% for post in paginator.posts %}
+    {% include archive-single3.html type="list" %}
+    {% endfor %}
+</div>
+{% include paginator.html %} 
